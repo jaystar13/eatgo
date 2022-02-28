@@ -1,6 +1,5 @@
-package com.jaystar.eatgo.application;
+package com.jaystar.eatgo.domain;
 
-import com.jaystar.eatgo.domain.Category;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

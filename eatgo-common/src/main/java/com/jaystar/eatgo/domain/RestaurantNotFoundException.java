@@ -1,4 +1,4 @@
-package com.jaystar.eatgo.application;
+package com.jaystar.eatgo.domain;
 
 public class RestaurantNotFoundException extends RuntimeException {
     public RestaurantNotFoundException(Long id) {

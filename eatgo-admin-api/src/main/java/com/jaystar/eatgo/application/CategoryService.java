@@ -1,6 +1,7 @@
 package com.jaystar.eatgo.application;
 
 import com.jaystar.eatgo.domain.Category;
+import com.jaystar.eatgo.domain.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

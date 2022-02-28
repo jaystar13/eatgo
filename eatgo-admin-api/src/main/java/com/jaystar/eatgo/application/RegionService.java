@@ -1,6 +1,7 @@
 package com.jaystar.eatgo.application;
 
 import com.jaystar.eatgo.domain.Region;
+import com.jaystar.eatgo.domain.RegionRepository;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;

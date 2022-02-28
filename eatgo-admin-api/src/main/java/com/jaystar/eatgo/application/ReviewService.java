@@ -1,6 +1,7 @@
 package com.jaystar.eatgo.application;
 
 import com.jaystar.eatgo.domain.Review;
+import com.jaystar.eatgo.domain.ReviewRepository;
 
 import java.util.List;
 

@@ -1,6 +1,7 @@
 package com.jaystar.eatgo.application;
 
 import com.jaystar.eatgo.domain.Region;
+import com.jaystar.eatgo.domain.RegionRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

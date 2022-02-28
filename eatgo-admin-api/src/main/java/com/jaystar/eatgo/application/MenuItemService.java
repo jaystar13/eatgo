@@ -1,6 +1,7 @@
 package com.jaystar.eatgo.application;
 
 import com.jaystar.eatgo.domain.MenuItem;
+import com.jaystar.eatgo.domain.MenuItemRepository;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;

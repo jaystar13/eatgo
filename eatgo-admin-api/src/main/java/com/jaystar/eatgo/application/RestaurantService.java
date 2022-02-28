@@ -1,6 +1,8 @@
 package com.jaystar.eatgo.application;
 
 import com.jaystar.eatgo.domain.Restaurant;
+import com.jaystar.eatgo.domain.RestaurantNotFoundException;
+import com.jaystar.eatgo.domain.RestaurantRepository;
 
 import javax.transaction.Transactional;
 import java.util.List;
